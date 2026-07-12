@@ -1,0 +1,2 @@
+pyTelegramBotAPI==4.16.0
+Pillow==11.2.1
